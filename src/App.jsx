@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import Main from './components/main'
+import Main from "./components/Main"
 import { Route, Routes } from 'react-router'
 import Task from './components/Task'
 import About from './components/About'
